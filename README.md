@@ -10,7 +10,7 @@ Here are some of the projects I’ve worked on:
 ## 🔬 **Home Lab Write Ups
 
 - 🗺 **[Azure SOC Lab](https://github.com/dscott2113/Azure-SOC-Lab-Write-Up/blob/main/readme.md)**
-  A project I did to learn and gain experience with Azure, KQL, and setting up and using a SIEM. 
+  A project I did to learn and gain experience with Azure, KQL, and setting up and using a SIEM.
 
 ## 🐍 Python Coding
 
@@ -27,6 +27,6 @@ Here are some of the projects I’ve worked on:
 I’m also working on a Medium page where I write about my projects and home labs to help gain skills and experience in cybersecurity. Check it out here: [https://medium.com/@dscott2113](https://medium.com/@dscott2113)
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/daniel-scott-5a55b3212)
+- [LinkedIn](linkedin.com/in/ds2113)
 
 Feel free to connect or reach out if you have any questions or just want to chat!
