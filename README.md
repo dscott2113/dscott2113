@@ -9,7 +9,7 @@ Here are some of the projects I’ve worked on:
 
 ## 🔬 **Home Lab Write Ups**
 
-- 🗺 **[Azure SOC Lab](https://github.com/dscott2113/Azure-SOC-Lab-Write-Up/blob/main/readme.md)**
+- 🗺 **[Azure SOC Lab](https://github.com/dscott2113/Azure-SOC-Lab-Write-Up/blob/main/readme.md)** 
   A project I did to learn and gain experience with Azure, KQL, and setting up and using a SIEM.
 
 ## 🐍 Python Coding
